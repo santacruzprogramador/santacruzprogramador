@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy desarrollador web junior autodidacta, enfocado en el aprendizaje continuo
 y en la construcción de proyectos personales para ganar experiencia práctica.
@@ -15,7 +15,7 @@ aprender buenas prácticas y aportar valor desde el primer día.
 
 ---
 
-## 🎨 Frontend
+## Frontend
 
 - Figma (diseño de interfaces)  
 - HTML5  
@@ -24,7 +24,7 @@ aprender buenas prácticas y aportar valor desde el primer día.
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 - Python  
 - Programación Orientada a Objetos (POO)  
@@ -37,14 +37,14 @@ aprender buenas prácticas y aportar valor desde el primer día.
 
 ---
 
-## 🛠️ Herramientas
+## Herramientas
 
 - Git  
 - GitHub  
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 
 - APIs REST  
@@ -52,7 +52,7 @@ aprender buenas prácticas y aportar valor desde el primer día.
 
 ---
 
-## 🎯 Objetivo profesional
+## Objetivo profesional
 
 Conseguir mi **primer trabajo como Desarrollador Junior / Trainee**,  
 preferentemente en modalidad **remota**, donde pueda **aprender trabajando**,  
@@ -61,14 +61,14 @@ profesionalmente dentro de un equipo.
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
-👉 Podés ver mis proyectos en mis repositorios de GitHub.  
+Podés ver mis proyectos en mis repositorios de GitHub.  
 Cada proyecto está enfocado en práctica real y aprendizaje continuo.
 
 ---
 
-## 🌎 Contacto
+## Contacto
 
 📍 Argentina  
 🐙 GitHub: https://github.com/santacruzprogramador  
