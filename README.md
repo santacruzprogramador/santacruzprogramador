@@ -74,3 +74,34 @@ Cada proyecto está enfocado en práctica real y aprendizaje continuo.
 🐙 GitHub: https://github.com/santacruzprogramador  
 📧 Email: santacruzprogramador@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-alberto-santacruz-28410439a/
+
+
+## 🧠 Tecnologías
+
+| Frontend | Backend |
+|---------|---------|
+| Figma (diseño de interfaces) | Python |
+| HTML5 | POO |
+| CSS3 | Django |
+| JavaScript | Django REST |
+|  | SQL / NoSQL |
+|  | Diseño y rediseño de bases de datos |
+
+---
+
+## 🛠️ Herramientas
+
+| |
+|--|
+| Git |
+| GitHub |
+
+---
+
+## 📚 Actualmente aprendiendo
+
+| |
+|--|
+| APIs REST |
+| Mejores prácticas de desarrollo web |
+
