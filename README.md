@@ -15,40 +15,17 @@ aprender buenas prácticas y aportar valor desde el primer día.
 
 ---
 
-## Frontend
+## 🧠 Tecnologías
 
-- Figma (diseño de interfaces)  
-- HTML5  
-- CSS3  
-- JavaScript  
+| Frontend | Backend | Herramientas | Actualmente aprendiendo |
+|---------|---------|--------------|--------------------------|
+| Figma (diseño de interfaces) | Python | Git | APIs REST |
+| HTML5 | Programación Orientada a Objetos (POO) | GitHub | Mejores prácticas de desarrollo web |
+| CSS3 | Django |  |  |
+| JavaScript | Django REST Framework |  |  |
+|  | SQL / NoSQL |  |  |
+|  | Diseño y rediseño de bases de datos |  |  |
 
----
-
-## Backend
-
-- Python  
-- Programación Orientada a Objetos (POO)  
-- Django  
-- Django REST Framework  
-- SQL   
-- NoSQL  
-- Diseño de bases de datos
-- Resiseño de bases de datos
-
----
-
-## Herramientas
-
-- Git  
-- GitHub  
-
----
-
-## Actualmente aprendiendo
-
-
-- APIs REST  
-- Mejores prácticas de desarrollo web  
 
 ---
 
@@ -75,33 +52,4 @@ Cada proyecto está enfocado en práctica real y aprendizaje continuo.
 📧 Email: santacruzprogramador@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-alberto-santacruz-28410439a/
 
-
-## 🧠 Tecnologías
-
-| Frontend | Backend |
-|---------|---------|
-| Figma (diseño de interfaces) | Python |
-| HTML5 | POO |
-| CSS3 | Django |
-| JavaScript | Django REST |
-|  | SQL / NoSQL |
-|  | Diseño y rediseño de bases de datos |
-
----
-
-## 🛠️ Herramientas
-
-| |
-|--|
-| Git |
-| GitHub |
-
----
-
-## 📚 Actualmente aprendiendo
-
-| |
-|--|
-| APIs REST |
-| Mejores prácticas de desarrollo web |
 
