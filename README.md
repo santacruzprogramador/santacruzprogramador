@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hola, soy  Santacruz José Alberto 👋  
 
-<!--
-**santacruzprogramador/santacruzprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador **Full Stack Junior** | Autodidacta  
+🚀 Buscando mi **primer empleo en IT**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+Soy desarrollador web junior autodidacta, enfocado en el aprendizaje continuo
+y en la construcción de proyectos personales para ganar experiencia práctica.
+
+Me interesa formar parte de un equipo donde pueda seguir creciendo,
+aprender buenas prácticas y aportar valor desde el primer día.
+
+---
+
+## 🎨 Frontend
+
+- Figma (diseño de interfaces)  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## ⚙️ Backend
+
+- Python  
+- Programación Orientada a Objetos (POO)  
+- Django  
+- Django REST Framework  
+- SQL   
+- NoSQL  
+- Diseño de bases de datos
+- Resiseño de bases de datos
+
+---
+
+## 🛠️ Herramientas
+
+- Git  
+- GitHub  
+
+---
+
+## 📚 Actualmente aprendiendo
+
+
+- APIs REST  
+- Mejores prácticas de desarrollo web  
+
+---
+
+## 🎯 Objetivo profesional
+
+Conseguir mi **primer trabajo como Desarrollador Junior / Trainee**,  
+preferentemente en modalidad **remota**, donde pueda **aprender trabajando**,  
+aportar **valor real a la empresa** y seguir formándome para crecer
+profesionalmente dentro de un equipo.
+
+---
+
+## 📂 Proyectos
+
+👉 Podés ver mis proyectos en mis repositorios de GitHub.  
+Cada proyecto está enfocado en práctica real y aprendizaje continuo.
+
+---
+
+## 🌎 Contacto
+
+📍 Argentina  
+🐙 GitHub: https://github.com/santacruzprogramador  
+📧 Email: santacruzprogramador@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-alberto-santacruz-28410439a/
