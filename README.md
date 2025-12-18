@@ -11,11 +11,10 @@ y en la construcción de proyectos personales para ganar experiencia práctica.
 Me interesa formar parte de un equipo donde pueda seguir creciendo,
 aprender buenas prácticas y aportar valor desde el primer día.
 
-## 🙌 Agradecimientos
+## Agradecimientos
 
 Este proceso de aprendizaje fue posible gracias a un enfoque constante de
-**investigar, contrastar y validar información**, apoyándome en diversas fuentes
-confiables.
+**investigar, contrastar y validar información**, apoyándome en diversas fuentes.
 
 Agradezco especialmente a:
 
