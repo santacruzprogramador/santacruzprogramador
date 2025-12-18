@@ -1,4 +1,4 @@
-# Hola, soy  Santacruz José Alberto 👋  
+# Hola, soy Santacruz José Alberto 👋  
 
 ## Sobre mí
 
