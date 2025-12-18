@@ -1,11 +1,11 @@
 # Hola, soy  Santacruz José Alberto 👋  
 
-💻 Desarrollador **Full Stack Junior** | Autodidacta  
-🚀 Buscando mi **primer empleo en IT**
-
----
+--
 
 ## Sobre mí
+
+💻 Desarrollador **Full Stack Junior** | Autodidacta  
+🚀 Buscando mi **primer empleo en IT**
 
 Soy desarrollador web junior autodidacta, enfocado en el aprendizaje continuo
 y en la construcción de proyectos personales para ganar experiencia práctica.
