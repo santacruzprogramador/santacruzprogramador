@@ -3,13 +3,9 @@
 ## Sobre mí
 
 💻 Desarrollador **Full Stack Junior** | Autodidacta  
-🚀 Buscando mi **primer empleo en IT**
 
 Soy desarrollador web junior autodidacta, enfocado en el aprendizaje continuo
 y en la construcción de proyectos personales para ganar experiencia práctica.
-
-Me interesa formar parte de un equipo donde pueda seguir creciendo,
-aprender buenas prácticas y aportar valor desde el primer día.
 
 ## Agradecimientos
 
@@ -30,10 +26,7 @@ Agradezco especialmente a:
 - 🤖 **Herramientas de inteligencia artificial**, como **ChatGPT**, utilizadas
   como apoyo para reforzar conceptos, analizar alternativas y mejorar el proceso
   de aprendizaje.
-
-Este conjunto de recursos me permitió construir una base sólida y continuar
-formándome de manera responsable y profesional.
-
+  
 ---
 
 ## 🧠 Tecnologías
