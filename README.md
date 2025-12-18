@@ -1,7 +1,5 @@
 # Hola, soy  Santacruz José Alberto 👋  
 
---
-
 ## Sobre mí
 
 💻 Desarrollador **Full Stack Junior** | Autodidacta  
