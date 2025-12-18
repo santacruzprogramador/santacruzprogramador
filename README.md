@@ -20,8 +20,10 @@ Agradezco especialmente a:
 
 - 📚 **La documentación oficial** de las tecnologías utilizadas, como principal
   referencia para el desarrollo de buenas prácticas.
-- 🎥 **Creadores de contenido educativo**, como **Jon MirCha** y **Soy Dalto**, por
-  compartir conocimiento claro y accesible para desarrolladores en formación.
+- 🎥 **Creadores de contenido educativo**, como:  
+  - **Jon MirCha** — https://www.youtube.com/@jonmircha  
+  - **Soy Dalto** — https://www.youtube.com/@soydalto  
+  por compartir conocimiento claro y accesible para desarrolladores en formación.
 - 🌐 **La comunidad de desarrollo**, incluyendo personas que crean y mantienen
   sitios web, blogs técnicos y foros de programación, que aportan soluciones,
   debates y experiencias reales.
